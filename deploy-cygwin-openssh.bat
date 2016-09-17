@@ -86,9 +86,9 @@ set "CYGDIR32=%SYSTEMDRIVE%\cygwin"
 set "CYGDIR64=%SYSTEMDRIVE%\cygwin64"
 
 set "CU=cyg-upgrade.bat"
-set "CU_URL=http://pastebin.com/raw/c2q3SH9T"
+set "CU_URL=https://github.com/towalls/ssh/raw/master/cyg-upgrade.bat"
 set "UCS=update-cygwin-setup.py"
-set "UCS_URL=http://pastebin.com/raw/xPN2cYat"
+set "UCS_URL=https://github.com/towalls/ssh/raw/master/update-cygwin-setup.py"
 
 set "INSTALL_LOG=Cygwin Installation.log"
 set "SSH_HOST_CONFIG_LOG=Cygwin OpenSSH Host Configuration.log"
